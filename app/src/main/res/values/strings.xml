@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Labo7</string>
+    <string name="regitrar">Registrar usuario</string>
+    <string name="modificar">Modificar Usuario</string>
+    <string name="consultar">Consultar lista de usuarios</string>
+    <string name="dui">Dui</string>
+    <string name="nombre">Nombre</string>
+</resources>
